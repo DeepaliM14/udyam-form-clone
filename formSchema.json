@@ -1,0 +1,282 @@
+{
+  "url": "https://udyamregistration.gov.in/UdyamRegistration.aspx",
+  "scrapedAt": "2025-08-12T12:52:47.394Z",
+  "step1": [
+    {
+      "tag": "button",
+      "label": "",
+      "name": null,
+      "id": null,
+      "type": "button",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "input",
+      "label": "",
+      "name": "__EVENTTARGET",
+      "id": "__EVENTTARGET",
+      "type": "hidden",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "input",
+      "label": "",
+      "name": "__EVENTARGUMENT",
+      "id": "__EVENTARGUMENT",
+      "type": "hidden",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "input",
+      "label": "",
+      "name": "__VIEWSTATE",
+      "id": "__VIEWSTATE",
+      "type": "hidden",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "input",
+      "label": "",
+      "name": "__VIEWSTATEGENERATOR",
+      "id": "__VIEWSTATEGENERATOR",
+      "type": "hidden",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "input",
+      "label": "",
+      "name": "__VIEWSTATEENCRYPTED",
+      "id": "__VIEWSTATEENCRYPTED",
+      "type": "hidden",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "input",
+      "label": "",
+      "name": "__EVENTVALIDATION",
+      "id": "__EVENTVALIDATION",
+      "type": "hidden",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "input",
+      "label": "1. Aadhaar Number/ आधार संख्या",
+      "name": "ctl00$ContentPlaceHolder1$txtadharno",
+      "id": "ctl00_ContentPlaceHolder1_txtadharno",
+      "type": "text",
+      "placeholder": "Your Aadhaar No",
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "input",
+      "label": "Name as per Aadhaar",
+      "name": "ctl00$ContentPlaceHolder1$txtownername",
+      "id": "ctl00_ContentPlaceHolder1_txtownername",
+      "type": "text",
+      "placeholder": "Name as per Aadhaar",
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "input",
+      "label": "",
+      "name": "ctl00$ContentPlaceHolder1$chkDecarationA",
+      "id": "ctl00_ContentPlaceHolder1_chkDecarationA",
+      "type": "checkbox",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "input",
+      "label": "",
+      "name": "ctl00$ContentPlaceHolder1$btnValidateAadhaar",
+      "id": "ctl00_ContentPlaceHolder1_btnValidateAadhaar",
+      "type": "submit",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "button",
+      "label": "",
+      "name": null,
+      "id": null,
+      "type": "button",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "button",
+      "label": "",
+      "name": null,
+      "id": "speak",
+      "type": "submit",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "button",
+      "label": "",
+      "name": null,
+      "id": "btn-s9",
+      "type": "submit",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "button",
+      "label": "",
+      "name": null,
+      "id": "btn-s13",
+      "type": "submit",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "button",
+      "label": "",
+      "name": null,
+      "id": "btn-s12",
+      "type": "submit",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "button",
+      "label": "",
+      "name": null,
+      "id": "btn-s10",
+      "type": "submit",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "button",
+      "label": "",
+      "name": null,
+      "id": "btn-df",
+      "type": "submit",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "button",
+      "label": "",
+      "name": null,
+      "id": "btn-s11",
+      "type": "submit",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "button",
+      "label": "",
+      "name": null,
+      "id": "btn-cursor",
+      "type": "submit",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "button",
+      "label": "",
+      "name": null,
+      "id": "dark-btn",
+      "type": "submit",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "input",
+      "label": "",
+      "name": null,
+      "id": "checkbox",
+      "type": "checkbox",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "button",
+      "label": "",
+      "name": null,
+      "id": "btn-invert",
+      "type": "submit",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "button",
+      "label": "",
+      "name": null,
+      "id": "reset-all",
+      "type": "submit",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    },
+    {
+      "tag": "button",
+      "label": "",
+      "name": null,
+      "id": "uw-widget-custom-trigger",
+      "type": "submit",
+      "placeholder": null,
+      "required": false,
+      "pattern": null,
+      "options": null
+    }
+  ],
+  "step2": []
+}
